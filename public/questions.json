@@ -1,0 +1,54 @@
+[
+    {
+      "question": "Which of the following is not a web component element?",
+      "options": ["<shadow>", "<menu>", "<content>", "<element>"],
+      "answer": "<menu>"
+    },
+    {
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "options": [" <link>", "<href>", "<a>", "<hyperlink>"],
+      "answer": "<a>"
+    },
+    {
+      "question": "Which of the following is used to read a HTML page and render it?",
+      "options": ["Web server", "Web matrix", "Web browser", "None of the mentioned"],
+      "answer": "Web browser"
+    },
+    {
+      "question": " What application can one create even before the introduction of HTML5?",
+      "options": ["Forms", "Browser Based games", "Web applications", "Mobile applications"],
+      "answer": "Forms"
+    },
+    {
+      "question": "Which of the following is not associated with web socket communication?",
+      "options": ["https", "wss", "http", "ws"],
+      "answer": "http"
+    },
+    {
+      "question": "What does <td> stand for?",
+      "options": ["Table database", "Table data", "Table directory", "Table direct row"],
+      "answer": "Table data"
+    },
+    {
+      "question": "Which element to used to give title to a table?",
+      "options": ["Caption", "Headline", "Title", "Heading"],
+      "answer": "Caption"
+    },
+    {
+      "question": "Which font format is used in web pages?",
+      "options": ["EOT", "WOFF 2.0", " WOFF", "SVG Fonts"],
+      "answer": "WOFF"
+    },
+    {
+      "question": "Which HTML tag is used to create a form?",
+      "options": ["<form>", "<input>", "<select>", "<textarea>"],
+      "answer": "<form>"
+    },
+    {
+      "question": " What is Vue JS?",
+      "options": ["Scripting Language", "A framework", " Programming Language", " Directives"],
+      "answer": "A framework"
+    }
+    
+]
+  
